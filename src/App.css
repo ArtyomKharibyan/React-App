@@ -1,5 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  outline: none;
+}
+
+.textfield {
+  background-color: aliceblue;
+  width: 40em;
+}
+
+.text {
+  color: aliceblue;
+  padding: 7px;
+  font-size: 2em;
+}
+
 .App {
   text-align: center;
+  background: orange;
+  padding: 2px;
 }
 
 .App-logo {
